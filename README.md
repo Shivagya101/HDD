@@ -23,7 +23,7 @@ Encoded categorical variables <br>
 
 ## Model Selection & Training:
 
-Evaluated multiple classifiers: Logistic Regression, Random Forest, XGBoost, etc.
+Evaluated multiple classifiers: Logistic Regression, Random Forest and KNN.
 
 Used GridSearchCV for hyperparameter tuning
 
