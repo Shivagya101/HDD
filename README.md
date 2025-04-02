@@ -30,7 +30,7 @@ Used GridSearchCV for hyperparameter tuning
 Assessed models using accuracy, precision, recall, and F1-score
 
 after hyperparameter tuning improved scores---- <br>
-KNN': 0.639344262295082 to 0.6885245901639344
-LGR': 0.9016393442622951 to 0.9016393442622951(no improvement)
-RFC': 0.8688524590163934 to 0.9508196721311475
+KNN: 0.639344262295082 to 0.6885245901639344
+<br> LGR': 0.9016393442622951 to 0.9016393442622951(no improvement)
+<br> RFC: 0.8688524590163934 to 0.9508196721311475
 
