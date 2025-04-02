@@ -3,10 +3,10 @@
 📌 Overview
 This project predicts the presence of heart disease using machine learning. It is based on the Kaggle Heart Disease UCI dataset. The model takes patient health parameters as input and determines the likelihood of heart disease.
 
-📂 Dataset
+## 📂 Dataset
 The dataset consists of 303 records with 14 clinical features, including age, cholesterol levels, blood pressure, and chest pain type. The target variable (target) indicates the presence (1) or absence (0) of heart disease.
 
-🛠️ Approach
+## 🛠️ Approach <br>
 Exploratory Data Analysis (EDA):
 
 Visualized feature distributions
@@ -19,9 +19,9 @@ Feature Engineering:
 
 Scaled numerical features
 
-Encoded categorical variables
+Encoded categorical variables <br>
 
-Model Selection & Training:
+## Model Selection & Training:
 
 Evaluated multiple classifiers: Logistic Regression, Random Forest, XGBoost, etc.
 
